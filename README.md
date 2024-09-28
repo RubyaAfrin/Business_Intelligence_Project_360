@@ -16,6 +16,9 @@
 ### Home
 - Page navigation facility with buttons to access any view.
 
+  
+![Home.png](https://github.com/RubyaAfrin/Business_Intelligence_Project_360/blob/main/reports/home_view.png)
+
 ### Finance View
 - Profit and loss statements matrix
 - Net sales performance trend
@@ -33,14 +36,23 @@
 - Performance matrix with Gross Margin percentage and Net Sales on customer
 - Unit economics (total COGS and deductions)
 
+![Sales View.png](https://github.com/RubyaAfrin/Business_Intelligence_Project_360/blob/main/reports/sales_view.png)
+
+
 ### Marketing View
 - Region/Market/Customer performance and product performance based on net profit and net profit percentage
 - Unit economics with COGS and operational expenses
+
+
+![Marketing View.png](https://github.com/RubyaAfrin/Business_Intelligence_Project_360/blob/main/reports/marketing_view.png)
 
 ### Supply Chain View
 - KPIs like forecast accuracy, net error, and absolute error
 - Key metrics by customers and product with risks like out of stock and excess inventory
 - Accuracy and net error trend comparing forecast accuracy with the previous year
+
+
+![Supply Chain View.png](https://github.com/RubyaAfrin/Business_Intelligence_Project_360/blob/main/reports/supply_chain_view.png)
 
 ## Key Learnings
 
