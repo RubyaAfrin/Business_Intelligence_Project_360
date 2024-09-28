@@ -10,6 +10,7 @@
 - **Marketing View**
 - **Supply Chain View**
 - **Executive View**
+- **Top and Bottom Products View**
 
 ## Dashboard Insights
 
@@ -53,6 +54,14 @@
 
 
 ![Supply Chain View.png](https://github.com/RubyaAfrin/Business_Intelligence_Project_360/blob/main/reports/supply_chain_view.png)
+
+### Excecutive View
+
+![Executive View.png](https://github.com/RubyaAfrin/Business_Intelligence_Project_360/blob/main/reports/supply_chain_view.png)
+
+### Top and Bottom Products View
+
+![Top and Bottom Products View.png](https://github.com/RubyaAfrin/Business_Intelligence_Project_360/blob/main/reports/supply_chain_view.png)
 
 ## Key Learnings
 
