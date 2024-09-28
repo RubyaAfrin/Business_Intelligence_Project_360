@@ -86,7 +86,7 @@
 
 ## Live Dashboard
 
-You can view the live Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/1c77d45c-936e-41ac-97a5-ebcc501d22fe/ReportSectionf368c445b85579eb44ea?experience=power-bi).
+You can view the live Power BI dashboard [here](https://app.powerbi.com/groups/me/reports/1c77d45c-936e-41ac-97a5-ebcc501d22fe/ReportSection6b7f9720829a1d745700?experience=power-bi).
 
 ---
 
