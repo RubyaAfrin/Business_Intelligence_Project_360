@@ -43,7 +43,6 @@
 - Region/Market/Customer performance and product performance based on net profit and net profit percentage
 - Unit economics with COGS and operational expenses
 
-<img src="https://github.com/RubyaAfrin/Business_Intelligence_Project_360/blob/main/reports/marketing_view.png" alt="Marketing View" width="500">
 
 ![Marketing View.png](https://github.com/RubyaAfrin/Business_Intelligence_Project_360/blob/main/reports/marketing_view.png)
 
