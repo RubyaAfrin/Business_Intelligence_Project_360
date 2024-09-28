@@ -24,7 +24,7 @@
 - Net profit
 - Net profit percentage
 - Pre and post invoice deduction
-
+![Finace.png]()
 ### Sales View
 - Customer and product performance by net sales
 - Gross margin and gross margin percentage
