@@ -1,4 +1,4 @@
-<h1 align="center">Business_Intelligence_Project_360</h1>
+<h1 align="center">Business Intelligence Project 360</h1>
 
 **Developed a comprehensive Power BI dashboard for AtliQ Hardware, providing the sales, finance, marketing, and supply chain teams with actionable insights and improved decision-making capabilities.**
 
