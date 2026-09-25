@@ -15,9 +15,6 @@
 
 The goal was to transform raw data into actionable insights across *Finance, Sales, Marketing, and Supply Chain*, helping stakeholders monitor performance, identify risks, and drive strategic growth.
 
-🔗 *Live Dashboard:* [Add Link]  
-🔗 *Course Reference:* [Add Link]  
-
 ---
 
 ## 🎯 Business Problem
