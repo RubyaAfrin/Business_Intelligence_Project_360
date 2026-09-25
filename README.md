@@ -135,8 +135,7 @@ Develop an interactive Power BI dashboard to provide real-time, data-driven insi
 
 ## 🧭 Dashboard Structure
 
-- 🏠 Home (Navigation Hub)  
-- ℹ️ Info  
+- 🏠 Home (Navigation Hub)   
 - 💰 Finance View  
 - 📈 Sales View  
 - 📣 Marketing View  
